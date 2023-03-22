@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1655940475 source:e:\facultate\sem2\pp\proiect c++\proiect2pp\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<conio.h>
+	<ctime>
+	"Data.h"
+	"Produs.h"
+	"Comanda.h"
+	<windows.h>
+
+1653876058 e:\facultate\sem2\pp\proiect c++\proiect2pp\include\data.h
+	<string>
+
+1654964796 e:\facultate\sem2\pp\proiect c++\proiect2pp\include\produs.h
+	<string>
+	<vector>
+	"Data.h"
+
+1654954032 e:\facultate\sem2\pp\proiect c++\proiect2pp\include\comanda.h
+	"Produs.h"
+	"Data.h"
+	<vector>
+	<string>
+
+1654954032 source:e:\facultate\sem2\pp\proiect c++\proiect2pp\src\comanda.cpp
+	"Comanda.h"
+	<iostream>
+
+1653876231 source:e:\facultate\sem2\pp\proiect c++\proiect2pp\src\data.cpp
+	"Data.h"
+	<iostream>
+
+1654961398 source:e:\facultate\sem2\pp\proiect c++\proiect2pp\src\produs.cpp
+	"Produs.h"
+	<string>
+	<iostream>
+
